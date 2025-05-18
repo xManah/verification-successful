@@ -1,2 +1,3 @@
 # You have successfully been verified.
-## You can how head back to our discord and do /connect.
+
+You can now connect your Minecraft Account to any server you want using /connect.
